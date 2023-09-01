@@ -31,7 +31,8 @@ body {
 }
 
 #currentslide {
-  
+
+  font-weight: bold;	
   margin: 0;
   position: absolute;
   top: 50%;
@@ -43,7 +44,7 @@ body {
   text-align: center; 
   
   /*Change the font size here leave the vh/vw as it makes it propotional. Make minor changes*/
-  font-size: 4.25vh;
+  font-size: 5.25vh;
   
    
  /* Global Settings copy and change if you like
